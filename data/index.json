@@ -1,0 +1,25 @@
+{
+  "home": {
+    "success": true,
+    "data": {
+      "title": "我是首页",
+      "section": "测试测试测"
+    }
+  },
+  "news": {
+    "success": true,
+    "data": [{
+      "title": "新闻列表1"
+    },{
+      "title": "新闻列表2"
+    },{
+      "title": "新闻列表3"
+    },{
+      "title": "新闻列表3"
+    },{
+      "title": "新闻列表4"
+    },{
+      "title": "新闻列表5"
+    }]
+  }
+}
